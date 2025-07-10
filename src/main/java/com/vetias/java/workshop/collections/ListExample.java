@@ -18,9 +18,9 @@ public class ListExample {
         for(int i=0;i<names.size();i++){
             System.out.println(names.get(i));
         }
-        names.sort(Comparator.naturalOrder());
+        names.sort(Comparator.reverseOrder());
 
-
+ 
     }
 
 }

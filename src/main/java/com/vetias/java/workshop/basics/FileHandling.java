@@ -3,7 +3,7 @@ package com.vetias.java.workshop.basics;
 import java.io.File;
 
 public class FileHandling {
-     public static void main(String[] args) {
+     public static void main(String[] args
         File file=new File("src");
         if(file.exists()){
             System.out.println("file exist"+file.getAbsolutePath());

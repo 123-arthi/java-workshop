@@ -13,6 +13,7 @@ public class ListExample {
         names.add("rani"); 
         names.add("saani");
         System.out.println(names);
+        names.set(1, "revathy");
         for(int i=0;i<names.size();i++){
             System.out.println(names.get(i));
         }

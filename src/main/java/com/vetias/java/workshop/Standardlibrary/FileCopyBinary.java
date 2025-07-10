@@ -1,4 +1,4 @@
-package workshop.Standardlibrary;
+package com.vetias.java.workshop.Standardlibrary;
 
 import java.io.File;
 import java.io.FileInputStream;

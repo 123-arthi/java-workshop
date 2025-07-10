@@ -1,3 +1,5 @@
+package com.vetias.java.workshop.temperaturedata.java.beans;
+
 import java.util.Arrays;
 
 public class BreadPriceAscending {

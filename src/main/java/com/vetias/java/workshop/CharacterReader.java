@@ -1,4 +1,4 @@
-package workshop;
+package com.vetias.java.workshop;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

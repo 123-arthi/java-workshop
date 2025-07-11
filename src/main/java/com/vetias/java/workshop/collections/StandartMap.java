@@ -12,7 +12,68 @@ public class StandartMap {
         Students.put(1322, "thaamu");
         Students.put(1012, "baamu");
         Students.put(1401, "daamu");
-        System.out.println(Students);
+        System.out.println(Students); 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
         
 
 }
